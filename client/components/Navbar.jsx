@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className="h-[200px] w-full flex items-center p-12 px-32 justify-between">
       <div className="">
         <Link href="/">
-          <Image 
+          <img 
             src="/logo.png"
             width={50}
             height={50}

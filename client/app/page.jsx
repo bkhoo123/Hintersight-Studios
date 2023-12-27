@@ -6,7 +6,7 @@ export default function Home() {
     <main className="h-screen w-screen bg-[#eeeeee] font-lexend">
       <Navbar />
       <div className="flex flex-col items-center justify-center py-20 gap-12">
-        <Image 
+        <img 
           src="/logo.png"
           width={200}
           height={200}
