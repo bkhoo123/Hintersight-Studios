@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="h-screen w-screen bg-[#eeeeee] font-lexend">
       <Navbar />
-      <div className="flex flex-col items-center justify-center py-20 gap-12">
+      <div className="flex flex-col items-center justify-center my-20 gap-12">
         <Image 
           src="/logo.png"
           width={200}
