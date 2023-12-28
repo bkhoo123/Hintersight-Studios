@@ -19,7 +19,7 @@ const Navbar = () => {
         </Link>
       </div>
 
-      <div className="md:flex space-x-4 lg:space-x-8 font-bold text-sm md:text-lg lg:text-xl">
+      <div className="md:flex gap-2 space-x-4 lg:space-x-8 font-bold text-sm md:text-lg lg:text-xl">
         <Link href="/">Home</Link>
         <Link href="/about">About</Link>
         <Link href="/blog">Blog</Link> {/* Assuming '/blog' is the correct path */}
