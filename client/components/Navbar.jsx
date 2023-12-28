@@ -16,7 +16,7 @@ const Navbar = () => {
         </Link>
       </div>
 
-      <div className="space-x-12 font-bold sm:text-lg lg:text-xl">
+      <div className="sm:space-x-4 lg:space-x-12 font-bold sm:text-lg lg:text-xl">
         <Link href="/">
           Home
         </Link>
