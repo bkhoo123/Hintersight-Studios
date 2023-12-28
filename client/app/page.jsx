@@ -19,7 +19,7 @@ export default function Home() {
         </div>
         {/* Embedding the URL as an iframe */}
         <iframe 
-          src="http://eepurl.com/iGJZu-/" 
+          src="https://eepurl.com/iGJZu-/" 
           width="100%" 
           height="500" 
           frameBorder="0"
