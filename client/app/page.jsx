@@ -10,6 +10,7 @@ export default function Home() {
           src="/logo.png"
           width={200}
           height={200}
+          alt="Hinterlight Studios Logo"
         />
         <h1 className="sm:text-lg lg:text-4xl font-bold">Hintersight Studios</h1>
         <div className="sm:text-md lg:text-3xl">
