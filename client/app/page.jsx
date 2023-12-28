@@ -7,7 +7,7 @@ export default function Home() {
       <Navbar />
       <div className="flex flex-col items-center justify-center py-20 gap-12">
         <img 
-          src="/logo.png"
+          src="/Logo.png"
           width={200}
           height={200}
         />
