@@ -11,7 +11,7 @@ const Lexend = Lexend_Deca({
 
 export const metadata = {
   title: 'Hinterlight Studios',
-  description: 'Built on Next.js',
+  description: 'Hintersight Studios',
 }
 
 export default function RootLayout({ children }) {
