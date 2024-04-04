@@ -10,7 +10,7 @@ const Lexend = Lexend_Deca({
 })
 
 export const metadata = {
-  title: 'Hinterlight Studios',
+  title: 'Hintersight Studios',
   description: 'Hintersight Studios',
 }
 
