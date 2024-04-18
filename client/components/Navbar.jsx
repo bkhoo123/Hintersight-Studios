@@ -12,7 +12,7 @@ const Navbar = () => {
               src="/logo.png"
               width={50}
               height={50}
-              alt="Hinterlight Studios Logo"
+              alt="Hintersight Studios Logo"
               layout="fixed"
             />
           
